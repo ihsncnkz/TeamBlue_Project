@@ -76,4 +76,5 @@ Here is the graphical loss result:
 ## References
 1. [Global AI Hub](https://globalaihub.com/courses/introduction-to-deep-learning/)
 2. [Kaggle](https://www.kaggle.com/datasets/chrisfilo/urbansound8k)
+3. [![Open In Colab](https://colab.research.google.com/drive/1sAiXy-QZhKwimZfcQAQ34dMw5N9TN26y?usp=sharing)](https://colab.research.google.com/github/weiji14/deepbedmap/]
 ---
